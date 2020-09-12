@@ -68,7 +68,7 @@ document.getElementById("num0").addEventListener("click", function () {
   wrightNum(0);
 });
 
-+document.getElementById("num1").addEventListener("click", function () {
+document.getElementById("num1").addEventListener("click", function () {
   wrightNum(1);
 });
 
