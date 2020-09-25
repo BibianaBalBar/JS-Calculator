@@ -1,5 +1,5 @@
 # JS Calculator
 
-## Simple calculator made with vanilla JavaScript.
+## Simple vanilla JavaScript calculator.
 
-![calculator](https://github.com/BibianaBalBar/JS-Calculator/blob/master/img/calc.gif)
+![calculator](https://github.com/BibianaBalBar/JS-Calculator/blob/master/img/calculator.gif)

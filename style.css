@@ -25,6 +25,8 @@ body {
   font-weight: 500;
   font-size: 28px;
   line-height: 29px;
+  border-radius: 1.3%;
+  animation: opening 1s ease-in-out;
 }
 
 .calculation {
@@ -101,4 +103,13 @@ body {
   width: 44px;
   height: 170px;
   grid-area: 3 / 4 / 6 / 5;
+}
+
+@keyframes opening {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
